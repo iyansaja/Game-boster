@@ -17,3 +17,4 @@ Aplikasi untuk mempercepat performa game di Android.
 
 ## Status:
 Masih dalam tahap pengembangan.
+![Tampilan Antarmuka](contoh_gambar%20(1).png)
