@@ -1,51 +1,36 @@
-# Game-booster
 
-[![Version](https://img.shields.io/badge/version-1.0.0-blue)](https://img.shields.io/badge/version-1.0.0-blue)
-[![Status](https://img.shields.io/badge/status-development-orange)](https://img.shields.io/badge/status-development-orange)
-[![License](https://img.shields.io/badge/license-MIT-green)](https://img.shields.io/badge/license-MIT-green)
+# Game Booster
 
-**Percepat performa game Android Anda**
-
-Game-booster adalah aplikasi Android yang dirancang untuk mempercepat kinerja perangkat saat bermain game, dengan membersihkan RAM, menutup aplikasi latar belakang, dan mengawasi pemakaian CPU.
-
----
+**Game Booster** adalah aplikasi sederhana untuk meningkatkan performa perangkat saat bermain game dengan mengoptimalkan penggunaan sumber daya.
 
 ## Fitur
 
-- Membersihkan RAM sebelum main game  
-- Menutup aplikasi latar belakang  
-- Monitoring suhu & penggunaan CPU  
+- Optimasi RAM secara otomatis
+- Membersihkan aplikasi latar belakang
+- Mode performa tinggi untuk bermain game
 
----
+## Cara Instalasi
 
-## Cara Pakai
+1. Unduh aplikasi ini dari repositori.
+2. Jalankan file instalasi sesuai dengan sistem operasi Anda.
+3. Ikuti instruksi di layar.
 
-1. Install aplikasi  
-2. Buka **Game-booster**  
-3. Pilih game yang ingin dipercepat  
-4. Tekan tombol **Boost**
+## Cara Menggunakan
 
----
+1. Buka aplikasi **Game Booster**.
+2. Pilih mode optimasi.
+3. Jalankan game favorit Anda!
 
 ## Tampilan Antarmuka
 
-![Tampilan Aplikasi](contoh_gambar%20(1).png)
+Berikut adalah contoh antarmuka aplikasi:
 
----
+![Tampilan Antarmuka](contoh_gambar%20(1).png)
 
-## Status
+## Kontribusi
 
-Masih dalam tahap pengembangan.
+Kontribusi sangat terbuka! Silakan buat pull request atau laporkan isu.
 
----
+## Lisensi
 
-## Persyaratan Pengembangan
-
-- **Android Studio**: Dolphin | 2021.3.1 atau lebih baru  
-- **Versi Gradle**: 7.5 atau sesuai konfigurasi project  
-- **Versi Java (JDK)**: 11  
-- **Compile SDK Version**: 33  
-- **Min SDK Version**: 21  
-- **Target SDK Version**: 33  
-
-Pastikan Android SDK telah diinstal dan emulator/device terhubung saat proses pengujian.
+Aplikasi ini dilisensikan di bawah [MIT License](LICENSE).
